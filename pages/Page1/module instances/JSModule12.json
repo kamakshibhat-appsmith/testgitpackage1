@@ -1,0 +1,21 @@
+{
+  "gitSyncId": "66a22eb2d0111676ae62c664_b5cf7910-c5f8-48ab-9fb0-70273c47eb6e",
+  "id": "Page1_JSModule12",
+  "moduleUUID": "d288b267-4551-476e-bc2c-8dcb4d8da613",
+  "packageUUID": "3e8c498c-11da-4629-80a9-b78871c612c4",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "myFun1": "[\"{{2}}\"]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "ismqemsudz": {},
+      "timskeoahu": {}
+    },
+    "name": "JSModule12",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}
