@@ -1,18 +1,21 @@
 {
-  "gitSyncId": "66a23149d0111676ae62c750_1f743189-613a-458e-b63e-108d1f77bc13",
+  "gitSyncId": "66a24a91d0111676ae62d90d_1958c51c-569f-4871-83b2-2c01742f95b7",
   "id": "Page1_JSModule13",
-  "moduleUUID": "5f9653a2-e4e2-4037-b2a0-6dad13b4a49e",
-  "packageUUID": "e66c156b-79dd-4b32-992e-6659596a72ca",
+  "moduleUUID": "d288b267-4551-476e-bc2c-8dcb4d8da613",
+  "packageUUID": "3e8c498c-11da-4629-80a9-b78871c612c4",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
+    "inputs": {
+      "myFun1": "[\"{{4}}\"]",
+      "myFun2": "[]"
+    },
     "moduleInputs": {
-      "aeltywkfux": {},
-      "zkswlpmyyj": {}
+      "ismqemsudz": {},
+      "timskeoahu": {}
     },
     "name": "JSModule13",
     "pageId": "Page1",
-    "version": "0.0.5"
+    "version": "0.0.2"
   }
 }
