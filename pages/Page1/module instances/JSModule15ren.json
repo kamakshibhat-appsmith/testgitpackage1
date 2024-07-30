@@ -1,17 +1,20 @@
 {
-  "gitSyncId": "66a24c44d0111676ae62d9dc_7ca39f26-6d64-4950-8273-2e6099462d59",
-  "id": "Page1_JSModule15",
+  "gitSyncId": "66a8dce0f9af233d0dc3da5a_3a9d45fe-ca3f-482a-b0ef-e2ec90888b99",
+  "id": "Page1_JSModule15ren",
   "moduleUUID": "d288b267-4551-476e-bc2c-8dcb4d8da613",
   "packageUUID": "3e8c498c-11da-4629-80a9-b78871c612c4",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
+    "inputs": {
+      "myFun1": "[\"{{2}}\"]",
+      "myFun2": "[]"
+    },
     "moduleInputs": {
       "ismqemsudz": {},
       "timskeoahu": {}
     },
-    "name": "JSModule15",
+    "name": "JSModule15ren",
     "pageId": "Page1",
     "version": "0.0.4"
   }
