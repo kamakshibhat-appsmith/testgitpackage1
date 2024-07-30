@@ -6,14 +6,7 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [
-      {
-        "key": "myFun1"
-      }
-    ],
-    "inputs": {
-      "myFun1": "[\"{{2}}\"]"
-    },
+    "inputs": {},
     "moduleInputs": {
       "ismqemsudz": {},
       "timskeoahu": {}
