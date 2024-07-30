@@ -6,13 +6,20 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
+    "dynamicBindingPathList": [
+      {
+        "key": "myFun1"
+      }
+    ],
+    "inputs": {
+      "myFun1": "[\"{{2}}\"]"
+    },
     "moduleInputs": {
       "ismqemsudz": {},
       "timskeoahu": {}
     },
     "name": "JSModule14",
     "pageId": "Page1",
-    "version": "0.0.3"
+    "version": "0.0.4"
   }
 }

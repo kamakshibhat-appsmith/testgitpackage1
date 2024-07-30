@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66a24498d0111676ae62d764_d2c40dcb-5823-451d-8ad2-32b79e4a474f",
-  "id": "Page1_JSModule11",
+  "id": "Page1_JSModule11rename",
   "moduleUUID": "5f9653a2-e4e2-4037-b2a0-6dad13b4a49e",
   "packageUUID": "e66c156b-79dd-4b32-992e-6659596a72ca",
   "type": "JS_MODULE",
@@ -11,7 +11,7 @@
       "aeltywkfux": {},
       "zkswlpmyyj": {}
     },
-    "name": "JSModule11",
+    "name": "JSModule11rename",
     "pageId": "Page1",
     "version": "0.0.7"
   }
